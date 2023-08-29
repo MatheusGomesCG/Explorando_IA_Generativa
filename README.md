@@ -1,5 +1,5 @@
 # 🖥️ PROJETO COM IA - PARA PARABENIZAR O ANIVERSÁRIANTE
-O objetivo do código é integrar um banco de dados para gerar uma mensagem de parabéns automática com 200 caracteres
+O objetivo do código é integrar um banco de dados para gerar uma mensagem de parabéns automática com 100 caracteres
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/matheusgomes153?tab=skills)
