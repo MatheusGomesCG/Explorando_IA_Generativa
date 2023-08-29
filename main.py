@@ -39,7 +39,7 @@ news_list = []
 
 for user_id, user_data in user.items():
     if user_data['birthday'] == data_today_string:
-        news = generate_ai_news(user_data)
+        news = generate_ai_news(user_data['name'])
         news_list.append(news)
 
 for news in news_list:
